@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<person-info>
+    <person>
+        <depCode>3</depCode>
+        <depJob>Manager</depJob>
+        <description>hi</description>
+    </person>
+    <person>
+        <depCode>3</depCode>
+        <depJob>Guard</depJob>
+        <description>save my life</description>
+    </person>
+    <person>
+        <depCode>1</depCode>
+        <depJob>Boss</depJob>
+        <description>Old man</description>
+    </person>
+    <person>
+        <depCode>1</depCode>
+        <depJob>Developer</depJob>
+        <description>GJ</description>
+    </person>
+</person-info>

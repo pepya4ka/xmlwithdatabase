@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person-info>
+    <person>
+        <depCode>123</depCode>
+        <depJob>developer</depJob>
+        <description>good job</description>
+    </person>
+    <person>
+        <depCode>12</depCode>
+        <depJob>12</depJob>
+        <description>12 + Update description</description>
+    </person>
+</person-info>

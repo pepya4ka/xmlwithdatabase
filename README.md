@@ -1,0 +1,1 @@
+Project Structure -> Libraries -> New Project Library -> From Maven... -> write: "xerial sqlite-jdbc" -> choose last version (e.g. "org.xerial:sqlite-jdbc:3.28.0") -> apply -> ok
